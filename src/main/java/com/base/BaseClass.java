@@ -65,6 +65,7 @@ public abstract class BaseClass {
 		} catch (Exception e) {
 			Assert.fail("ERROR OCCURS DURING click");
 		}
+
 	   } 
 	 protected static void  close() {
 		 
@@ -73,4 +74,10 @@ public abstract class BaseClass {
      protected static void  open() {
 		 
 	 }
+	   }
+	 protected static void buttonone (WebElement element ) {
+		 
+	 }
+	 
+
 }
