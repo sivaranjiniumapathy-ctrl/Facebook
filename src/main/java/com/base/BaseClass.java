@@ -78,6 +78,10 @@ public abstract class BaseClass {
 	 protected static void buttonone (WebElement element ) {
 		 
 	 }
+ protected static void method4 (WebElement element ) {
+		 
+	 }
+	 
 	 
 
 }
