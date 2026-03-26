@@ -65,5 +65,8 @@ public abstract class BaseClass {
 		} catch (Exception e) {
 			Assert.fail("ERROR OCCURS DURING click");
 		}
-	   }
+	   } 
+	 protected static void  close() {
+		 
+	 }
 }
