@@ -69,4 +69,8 @@ public abstract class BaseClass {
 	 protected static void  close() {
 		 
 	 }
+	 
+     protected static void  open() {
+		 
+	 }
 }
