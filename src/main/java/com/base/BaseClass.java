@@ -66,4 +66,8 @@ public abstract class BaseClass {
 			Assert.fail("ERROR OCCURS DURING click");
 		}
 	   }
+	 protected static void buttonone (WebElement element ) {
+		 
+	 }
+	 
 }
